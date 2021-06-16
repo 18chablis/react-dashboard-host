@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.delete{
+  background-color: #e22f2f;
+  padding: 8px;
+  margin: 5px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.update{
+  background-color: #91e458;
+  padding: 8px;
+  margin: 5px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.navbar_wrapper_right a:hover{
+  color: #f5f5f5;
+  font-size:18px;
+  font-size-adjust: 12px;
+}
+
+.navbar_wrapper_right a{
+  padding-left: 20px;
+  text-decoration: none;
+  color: #f9faf9;
+}
+
+form label{
+  text-align: start;
+}
